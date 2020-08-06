@@ -8,4 +8,4 @@ La première version fashion_mnist, est la solution au problème avec un modèle
 
 # Tutoriel complet à cette adresse
 
-https://larevueia.fr/tensorflow/
+Vous trouverez un [tutoriel complet](https://larevueia.fr/tensorflow/) avec des explications sur les méthodes utilisées sur [La revue IA](https://larevueia.fr/).
